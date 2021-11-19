@@ -42,5 +42,7 @@
 
 Run in aliyun:
 
+copy and modify the yml config beside the jar.
 nohup java -jar /root/file-upload-and-dowload-0.0.1-SNAPSHOT.jar >/dev/null 2>&1 & 
+
 nohup /root/redis/redis-6.2.6/src/redis-server >/dev/null 2>&1 & 
