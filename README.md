@@ -6,9 +6,13 @@
 ​			需要安装jdk8 以上
 
 ​			需要安装启动redis（默认的端口即可）
+
        https://github.com/tporadowski/redis/releases
+       
        windows: redis-server.exe
+       
        https://redis.io/download
+       
        linux:./redis-server
        
        Installation Redis in linux
